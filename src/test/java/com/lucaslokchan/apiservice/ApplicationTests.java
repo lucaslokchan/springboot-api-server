@@ -1,10 +1,10 @@
-package com.lucaslokchan.api_service;
+package com.lucaslokchan.apiservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiServiceApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
