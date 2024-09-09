@@ -1,4 +1,4 @@
-package com.lucaslokchan.api_service;
+package com.lucaslokchan.apiservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
